@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "latinName": "Ficus L.",
+    "commonName": "Figowiec",
+    "userCommonName": "Figa"
+  },
+  {
+    "id": "2",
+    "latinName": "Opuntia Mill.",
+    "commonName": "Opuncja",
+    "userCommonName": "Kaktusik"
+  },
+  {
+    "id": "1",
+    "latinName": "Persea Mill.",
+    "commonName": "Avocado",
+    "userCommonName": "Smaczliwka"
+  }
+]
